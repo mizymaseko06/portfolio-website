@@ -1,0 +1,7 @@
+*{
+    --blue: #0A0F1D;
+    --yellow: #F7DF1E;
+    background-color: var(--blue);
+    --heading-font: "Teko";
+    --text-font: "Averia Serif Libre";
+}
