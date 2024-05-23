@@ -5,4 +5,16 @@
     background-color: var(--blue);
     --heading-font: "Teko";
     --text-font: "Averia Serif Libre";
+    color: var(--white);
+    font-family: var(--text-font);
+}
+
+header{
+    height: 5vh;
+}
+
+
+#hero{
+    height: 95vh;
+    padding-top: 20vh;
 }
