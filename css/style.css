@@ -22,3 +22,8 @@ header{
 .service-icon{
     font-size: 50px;
 }
+
+.social-icon{
+    font-size: 30px;
+    margin: 20px;
+}
