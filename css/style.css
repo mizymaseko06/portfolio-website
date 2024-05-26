@@ -13,7 +13,6 @@ header{
     height: 5vh;
 }
 
-
 #hero{
     height: 95vh;
     padding-top: 30vh;
@@ -26,4 +25,19 @@ header{
 .social-icon{
     font-size: 30px;
     margin: 20px;
+}
+
+.header-text{
+    font-family: var(--heading-font);
+    color: var(--yellow);
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.secondary-header-text{
+    font-family: var(--heading-font);
+    font-weight: 500;
+    letter-spacing: 2px;
+    /* margin-left: 20px; */
+    margin-top: -20px;
 }
