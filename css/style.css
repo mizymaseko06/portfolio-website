@@ -39,6 +39,10 @@ header{
     border-color: var(--yellow);
 }
 
+a{
+    color: inherit;
+}
+
 .header-text{
     font-family: var(--heading-font);
     color: var(--yellow);
