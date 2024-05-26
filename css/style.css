@@ -27,6 +27,18 @@ header{
     margin: 20px;
 }
 
+.social-icon:hover{
+    color: var(--yellow);
+}
+
+.nav-link:hover{
+    color: var(--yellow);
+}
+
+.card:hover{
+    border-color: var(--yellow);
+}
+
 .header-text{
     font-family: var(--heading-font);
     color: var(--yellow);
