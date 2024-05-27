@@ -61,3 +61,7 @@ a{
 .form{
     display: none;
 }
+
+.card:hover{
+    scale: 1.05;
+}
