@@ -31,8 +31,12 @@ header{
     color: var(--yellow);
 }
 
+.nav-link{
+    color: var(--white) !important;
+}
+
 .nav-link:hover{
-    color: var(--yellow);
+    color: var(--yellow) !important;
 }
 
 .card:hover{
