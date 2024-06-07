@@ -69,3 +69,10 @@ a{
 .card:hover{
     scale: 1.05;
 }
+
+.pic-caption{
+    font-size: small;
+    font-family: var(--heading-font);
+    letter-spacing: 0.5px;
+    color: var(--yellow);
+}
