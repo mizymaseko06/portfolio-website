@@ -76,3 +76,10 @@ a{
     letter-spacing: 0.5px;
     color: var(--yellow);
 }
+
+.lets-connect-btn:hover{
+    color: white;
+    background-color: var(--yellow);
+    border: 1px solid var(--yellow);
+    scale: 1.1;
+}
